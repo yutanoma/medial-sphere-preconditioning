@@ -1,0 +1,49 @@
+# Build directories
+build/
+build_debug/
+.cache/
+
+# Editor and OS things
+imgui.ini
+.DS_Store
+# .vscode
+*.swp
+tags
+*.blend1
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+__pycache__/
+*.blend
+
+video/

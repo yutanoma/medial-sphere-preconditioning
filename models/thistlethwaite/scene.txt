@@ -1,0 +1,4 @@
+curve thistlethwaite.obj
+nDirections 16
+preconditioner laplacian
+timestep 30

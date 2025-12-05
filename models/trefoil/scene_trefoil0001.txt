@@ -1,0 +1,5 @@
+curve trefoil0001.obj
+rmax 1
+alpha 10
+h 0.1
+preconditioner laplacian

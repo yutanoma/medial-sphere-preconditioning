@@ -1,0 +1,9 @@
+curve haken.obj
+nDirections 24
+preconditioner laplacian
+alpha 16000
+lambda 0.1
+rmax 0.023
+timestep 30
+h 0.003
+useVal

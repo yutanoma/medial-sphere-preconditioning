@@ -1,0 +1,6 @@
+curve curve.obj
+mesh spot.obj
+alpha 4000
+rmax 1
+h 0.01
+preconditioner laplacian

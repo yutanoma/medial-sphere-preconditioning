@@ -1,0 +1,18 @@
+[submodule "deps/geometry-central"]
+	path = deps/geometry-central
+	url = https://github.com/nmwsharp/geometry-central.git
+[submodule "deps/BlenderToolbox"]
+	path = deps/BlenderToolbox
+	url = https://github.com/HTDerekLiu/BlenderToolbox
+[submodule "deps/tinyad"]
+	path = deps/tinyad
+	url = https://github.com/patr-schm/tinyad.git
+[submodule "deps/libigl"]
+	path = deps/libigl
+	url = https://github.com/libigl/libigl.git
+[submodule "deps/polyscope"]
+	path = deps/polyscope
+	url = https://github.com/nmwsharp/polyscope.git
+[submodule "paper"]
+	path = paper
+	url = https://github.com/yutanoma/volume-filling-curve-paper.git

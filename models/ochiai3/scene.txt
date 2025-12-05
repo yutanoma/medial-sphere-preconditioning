@@ -1,0 +1,3 @@
+curve ochiai3.obj
+preconditioner laplacian
+timestep 10

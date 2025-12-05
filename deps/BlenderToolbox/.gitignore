@@ -1,0 +1,16 @@
+*.json
+*.pyc
+*.blend
+cycles/*.blend
+cycles/*.blend1
+eevee/*.blend
+eevee/*.blend1
+*.blend1
+*.blend
+old/*
+.DS_Store
+eevee/
+meshes/*.m
+cycles/*.sh
+myScripts/
+myShapes/

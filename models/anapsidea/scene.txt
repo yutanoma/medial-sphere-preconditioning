@@ -1,0 +1,6 @@
+curve curve.obj
+mesh anapsidea.obj
+alpha 7056
+rmax 1
+h 0.01
+preconditioner quasi-newton

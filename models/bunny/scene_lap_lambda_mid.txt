@@ -1,0 +1,10 @@
+curve rings.obj
+mesh bunny.obj
+alpha 2500
+beta 0.01
+lambda 100
+rmax 1
+h 0.01
+preconditioner laplacian
+nDirections 16
+timestep 3

@@ -1,0 +1,7 @@
+curve ochiai4.obj
+preconditioner laplacian
+alpha 10000
+rmax 0.031
+h 0.005
+timestep 30
+useVal

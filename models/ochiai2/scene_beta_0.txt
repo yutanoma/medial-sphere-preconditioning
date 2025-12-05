@@ -1,0 +1,5 @@
+curve ochiai2.obj
+nDirections 16
+preconditioner laplacian
+timestep 20
+beta 0

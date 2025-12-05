@@ -1,0 +1,5 @@
+curve goeritz.obj
+nDirections 16
+preconditioner laplacian
+timestep 10
+beta 0
