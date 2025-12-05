@@ -1,4 +1,4 @@
-## Medial Axis Preconditioning for Knot Untangling and Volume-Filling Curves [SIGGRRAPH Asia 2025]
+## Medial Axis Preconditioning for Knot Untangling and Volume-Filling Curves [SIGGRAPH Asia 2025]
 
 ![Medial Axis Preconditioning Teaser](teaser.jpg)
 
